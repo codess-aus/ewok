@@ -9,13 +9,15 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11",
     "customvision-tfjs": "^1.0.1",
-		"register-service-worker": "^1.7.2"
+    "express": "^4.17.1",
+    "raw-loader": "^4.0.2",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
-    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-plugin-eslint": "^4.5.15",
     "@vue/cli-service": "~4.2.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",
