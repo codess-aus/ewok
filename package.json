@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "ewok",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "customvision-tfjs": "^1.0.1",
+		"register-service-worker": "^1.7.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
