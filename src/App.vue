@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <DetectImage msg="Is that an Ewok or a puppy?"/>
+    <DetectImage msg="Has your Puppy joined the Dark Side?"/>
   </div>
 </template>
 
