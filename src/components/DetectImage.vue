@@ -11,7 +11,7 @@
       v-for="pred in predictions"
       :key="pred.index"
     >{{ pred.label }}: {{ pred.probability.toFixed(0) + '%' }}</div>
-    <div v-if="!predictions.length">Thinking.....</div>
+    <div v-if="!predictions.length">Assessing.....</div>
   </div>
 </template>
 
