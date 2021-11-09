@@ -29,7 +29,7 @@ export default {
       model: null,
       predictions: [],
       image: 0,
-      numImages: 25
+      numImages: 33
     };
   },
   computed: {
